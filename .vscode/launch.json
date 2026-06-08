@@ -5,6 +5,90 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "countfre",
+            "request": "launch",
+            "mainClass": "countfre",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "secondmaxnum",
+            "request": "launch",
+            "mainClass": "secondmaxnum",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "reveser",
+            "request": "launch",
+            "mainClass": "reveser",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "countnoofsum",
+            "request": "launch",
+            "mainClass": "countnoofsum",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "MinInArr",
+            "request": "launch",
+            "mainClass": "MinInArr",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "maxinarr",
+            "request": "launch",
+            "mainClass": "maxinarr",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "paa",
+            "request": "launch",
+            "mainClass": "paa",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "star",
+            "request": "launch",
+            "mainClass": "star",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "pa",
+            "request": "launch",
+            "mainClass": "pa",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "starpattren",
+            "request": "launch",
+            "mainClass": "starpattren",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "patten",
+            "request": "launch",
+            "mainClass": "patten",
+            "projectName": "placement_ae6b0400"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
