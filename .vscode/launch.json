@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "math",
+            "request": "launch",
+            "mainClass": "math",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "HARSHEDNUM",
+            "request": "launch",
+            "mainClass": "HARSHEDNUM",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "reverse1",
+            "request": "launch",
+            "mainClass": "reverse1",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "nofooddevenindigit",
+            "request": "launch",
+            "mainClass": "nofooddevenindigit",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "noofdigit",
+            "request": "launch",
+            "mainClass": "noofdigit",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "palidrom",
+            "request": "launch",
+            "mainClass": "palidrom",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "vowes",
+            "request": "launch",
+            "mainClass": "vowes",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "placement_ae6b0400"
+        },
+        {
+            "type": "java",
             "name": "countfre",
             "request": "launch",
             "mainClass": "countfre",
